@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  border-radius: 10rem;
+  border: 1px solid black;
+  outline: none;
+  padding: 0.5rem;
+}
+
+button {
+  border-radius: 10rem;
+  outline: none;
+  border: 1px solid black;
+  margin: 0px 10px;
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+}
